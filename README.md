@@ -1,4 +1,4 @@
 # RAIC2017
 Russian AI Cup 2017
-2 rounds and final. It took me 3 weeks and about 70 hours.
 This contest will allow you to test your programming skills by creating an artificial intelligence (strategy) to control a large amount of units (vehicles) in a special game world. This year’s rules are made in such way that actions that are available to your strategy are similar to actions in common games of RTS genre. There is also a limitation on the amount of actions in one game time unit. Each game you will confront another player’s strategy. You need to earn more score than your opponent to win. Score is given for different game actions. Complete elimination of your enemy will give you a large amout of points, which almost neutralizes other achievements during the game. It is possible to kill enemy, but still lose by score, but that is almost impossible. Score gained during the game is more important if neither of players succeeds in destroying the opponent in given time.
+2 rounds and final took me 3 weeks and about 70 hours.
